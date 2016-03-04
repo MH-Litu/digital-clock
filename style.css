@@ -1,0 +1,12 @@
+
+.clockStyle {
+	background-color:#000;
+	border:#999 2px inset;
+	padding:6px;
+	color:#0F0;
+	font-family:digital-7;
+    font-size:30px;
+    font-weight:bold;
+	letter-spacing: 2px;
+	display:inline;
+}
