@@ -1,4 +1,4 @@
 # digital-clock
 By Javascript
 
-Live Link: http://mh-litu.github.io/digital-clock
+Live Link: http://litu173.github.io/digital-clock
